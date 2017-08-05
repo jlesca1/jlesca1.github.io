@@ -1,4 +1,4 @@
-#hello{
+.top{
   color: #ffffff;
   font: arial, sans-serif;
 }
@@ -12,9 +12,10 @@
 
 body{
   background-image: url("barbed_wire.jpg");
+  color: #ffffff;
 }
 
-.main_body{padding-top: 15px;
+#main_body{padding-top: 15px;
     padding-bottom: 15px;
     padding-left: 30px;
     padding-right: 60px;
@@ -22,6 +23,7 @@ body{
     border: 1px solid black;
     max-width: 800px;
     background: white;
+    color: #000000;
 }
 
 a:link {
