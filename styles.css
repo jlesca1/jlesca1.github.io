@@ -3,6 +3,13 @@
   font: arial, sans-serif;
 }
 
+@media only screen and (max-width: 500px) {
+    #hello{
+      color: #00ff00;
+      font: arial, sans-serif;
+    }
+}
+
 body{
   background-image: url("barbed_wire.jpg");
 }
