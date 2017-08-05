@@ -11,7 +11,7 @@
 }
 
 body{
-  background-image: url("/Users/josephlesca/Desktop/JoeDocs/red_panda/devbootcamp/2.5_solo_challenge/jlesca1.github.io/barbed_wire.jpg");
+  background-image: url("barbed_wire.jpg");
 }
 
 .main_body{padding-top: 15px;
