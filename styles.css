@@ -6,7 +6,7 @@
 @media only screen and (max-width: 500px) {
     #hello{
       color: #00ff00;
-      font: arial, sans-serif;
+      font-family: arial, sans-serif;
     }
 }
 
@@ -24,6 +24,7 @@ body{
     max-width: 800px;
     background: white;
     color: #000000;
+    font-family: Courier, sans-serif;
 }
 
 a:link {
